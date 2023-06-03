@@ -2,41 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63e74e4a-308d-4c09-86e0-fd7bc2438022" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jwd2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextSplitTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inner/MapTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inner/ianonymous/AnonymousClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inner/ianonymous/AnonymousDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inner/ianonymous/AnonymousDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inner/ilocal/LocalInnerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inner/ilocal/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/istandard/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/istandard/StandardInnerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/istatic/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/istatic/StaticInnerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab18/Alice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab18/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab18/UserCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab18/alice30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab18/crsto10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab18/lab18_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab20/AnonymousClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab20/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab20/OuterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/ListFilterLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/PlanetsLambdaLastLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/ListElementRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/MyFirstLabda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/PlanetsLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +51,13 @@
       <recent name="inner.ianonymous" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OuterDemo">
-    <configuration name="AnonymousClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inner.ianonymous.AnonymousClasses" />
+  <component name="RunManager" selected="Application.ListFilterLambda">
+    <configuration name="ListElementRemover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.ListElementRemover" />
       <module name="jwd2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inner.ianonymous.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnonymousDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inner.ianonymous.AnonymousDemo" />
+    <configuration name="ListFilterLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab21.ListFilterLambda" />
       <module name="jwd2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inner.ianonymous.*" />
+          <option name="PATTERN" value="lab21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnonymousDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inner.ianonymous.AnonymousDemo2" />
+    <configuration name="MyFirstLabda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.MyFirstLabda" />
       <module name="jwd2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inner.ianonymous.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab20.OuterDemo" />
+    <configuration name="PlanetsLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.PlanetsLambda" />
       <module name="jwd2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab20.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab20.AnonymousClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab20.AnonymousClasses" />
+    <configuration name="PlanetsLambdaLastLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab21.PlanetsLambdaLastLetter" />
       <module name="jwd2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab20.*" />
+          <option name="PATTERN" value="lab21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,19 +118,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AnonymousClasses" />
-      <item itemvalue="Application.AnonymousDemo" />
-      <item itemvalue="Application.AnonymousDemo2" />
-      <item itemvalue="Application.OuterDemo" />
-      <item itemvalue="Application.lab20.AnonymousClasses" />
+      <item itemvalue="Application.ListElementRemover" />
+      <item itemvalue="Application.ListFilterLambda" />
+      <item itemvalue="Application.MyFirstLabda" />
+      <item itemvalue="Application.PlanetsLambda" />
+      <item itemvalue="Application.PlanetsLambdaLastLetter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OuterDemo" />
-        <item itemvalue="Application.AnonymousClasses" />
-        <item itemvalue="Application.lab20.AnonymousClasses" />
-        <item itemvalue="Application.AnonymousDemo2" />
-        <item itemvalue="Application.AnonymousDemo" />
+        <item itemvalue="Application.ListFilterLambda" />
+        <item itemvalue="Application.PlanetsLambdaLastLetter" />
+        <item itemvalue="Application.ListElementRemover" />
+        <item itemvalue="Application.PlanetsLambda" />
+        <item itemvalue="Application.MyFirstLabda" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685775013705</updated>
-      <workItem from="1685775015188" duration="21002000" />
+      <workItem from="1685775015188" duration="24852000" />
     </task>
     <servers />
   </component>
